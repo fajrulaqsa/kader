@@ -1,0 +1,2 @@
+# kader
+belajar developer dasar
